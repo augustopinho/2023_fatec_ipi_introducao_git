@@ -1,4 +1,4 @@
-Essa atividade tem como o intuito de seguir a aula de programação em Banco de dados da Fatec Ipiranga.
+Essa atividade tem como o intuito de seguir a aula de programação em Banco de dados da Fatec Ipiranga. Nesta aula estamos aprendendo um pouco mais sobre o git e seus comandos.
 
 Nomes e RA:
 
